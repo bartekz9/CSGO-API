@@ -30,10 +30,6 @@ node group.js  --languages en,ru,uk
 
 Use `--languages all` to run every available language. `--force` skips the manifest cache check.
 
-### In a fork
-
-Set `LANGUAGES` under **Settings → Secrets and variables → Actions → Variables** (value: `en,ru,uk`, or `all` for every language). Scheduled runs use it automatically. To override once, go to **Actions → Update and Group JSON API → Run workflow** and fill the `languages` input (it takes priority over the variable).
-
 ### Available folder codes
 
 `en`, `zh-CN`, `pt-BR`, `ru`, `es-ES`, `bg`, `cs`, `da`, `nl`, `fi`, `fr`, `de`, `el`, `hu`, `it`, `ja`, `ko`, `es-MX`, `no`, `pl`, `pt-PT`, `ro`, `sv`, `zh-TW`, `th`, `tr`, `uk`, `vi`
@@ -636,6 +632,8 @@ Example response:
 ]
 ```
 
+Test change
+Test
 ### List highlights
 
 ```http
@@ -714,3 +712,5 @@ Example response:
   // ...
 }
 ```
+
+Testing
