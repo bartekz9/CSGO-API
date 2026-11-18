@@ -3436,5 +3436,293 @@
    "name": "starjunk95_01",
    "image_inventory": "econ/music_kits/starjunk95_01"
   }
+ },
+ {
+  "id": "music_kit-105",
+  "name": "Zestaw utworów | ALLEYCVT & LEVEL UP, BELIEVE",
+  "description": "Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>ALLEYCVT oraz LEVEL UP łączą siły w utworze „BELIEVE”, nieustępliwym basowym brzmieniu z dropami na tyle ciężkimi, by trząść całym serwerem.",
+  "def_index": "105",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "wysokiej jakości",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | ALLEYCVT & LEVEL UP, BELIEVE",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/alleycvt_01_png.png",
+  "original": {
+   "name": "alleycvt_01",
+   "image_inventory": "econ/music_kits/alleycvt_01"
+  }
+ },
+ {
+  "id": "music_kit-105_st",
+  "name": "Zestaw utworów (StatTrak™) | ALLEYCVT & LEVEL UP, BELIEVE",
+  "description": "<span style='color:#99ccff;'>Ten przedmiot posiada technologię StatTrak™, która pozwala śledzić pewne statystyki, kiedy jest używany przez jego właściciela.</span><br/><br/><span style='color:#cf6a32;'>Przedmiot ten śledzi liczbę zdobytych MVP w oficjalnych grach turniejowych.</span><br/><br/>Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>ALLEYCVT oraz LEVEL UP łączą siły w utworze „BELIEVE”, nieustępliwym basowym brzmieniu z dropami na tyle ciężkimi, by trząść całym serwerem.",
+  "def_index": "105",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "wysokiej jakości",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | ALLEYCVT & LEVEL UP, BELIEVE",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/alleycvt_01_png.png",
+  "original": {
+   "name": "alleycvt_01",
+   "image_inventory": "econ/music_kits/alleycvt_01"
+  }
+ },
+ {
+  "id": "music_kit-106",
+  "name": "Zestaw utworów | Arcando & Pirapus, Ultrasound",
+  "description": "Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>„Ultrasound” od Arcando i Pirapusa to szybki drum and bassowy hymn, który trzyma presję przez cały czas – od pierwszego kontaktu aż po ostatnie zabójstwo.",
+  "def_index": "106",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "wysokiej jakości",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Arcando & Pirapus, Ultrasound",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/arcando_01_png.png",
+  "original": {
+   "name": "arcando_01",
+   "image_inventory": "econ/music_kits/arcando_01"
+  }
+ },
+ {
+  "id": "music_kit-106_st",
+  "name": "Zestaw utworów (StatTrak™) | Arcando & Pirapus, Ultrasound",
+  "description": "<span style='color:#99ccff;'>Ten przedmiot posiada technologię StatTrak™, która pozwala śledzić pewne statystyki, kiedy jest używany przez jego właściciela.</span><br/><br/><span style='color:#cf6a32;'>Przedmiot ten śledzi liczbę zdobytych MVP w oficjalnych grach turniejowych.</span><br/><br/>Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>„Ultrasound” od Arcando i Pirapusa to szybki drum and bassowy hymn, który trzyma presję przez cały czas – od pierwszego kontaktu aż po ostatnie zabójstwo.",
+  "def_index": "106",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "wysokiej jakości",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Arcando & Pirapus, Ultrasound",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/arcando_01_png.png",
+  "original": {
+   "name": "arcando_01",
+   "image_inventory": "econ/music_kits/arcando_01"
+  }
+ },
+ {
+  "id": "music_kit-107",
+  "name": "Zestaw utworów | DJ DIESEL & Hairitage, BANG YOUR HEAD",
+  "description": "Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>Kiedy DJ DIESEL, czyli Shaquille O'Neal, łączy siły z basową wagą ciężką Hairitage, powstaje „BANG YOUR HEAD”, dubstepowy hicior stworzony pod strzelanie prosto w głowy.",
+  "def_index": "107",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "wysokiej jakości",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | DJ DIESEL & Hairitage, BANG YOUR HEAD",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/djdiesel_01_png.png",
+  "original": {
+   "name": "djdiesel_01",
+   "image_inventory": "econ/music_kits/djdiesel_01"
+  }
+ },
+ {
+  "id": "music_kit-107_st",
+  "name": "Zestaw utworów (StatTrak™) | DJ DIESEL & Hairitage, BANG YOUR HEAD",
+  "description": "<span style='color:#99ccff;'>Ten przedmiot posiada technologię StatTrak™, która pozwala śledzić pewne statystyki, kiedy jest używany przez jego właściciela.</span><br/><br/><span style='color:#cf6a32;'>Przedmiot ten śledzi liczbę zdobytych MVP w oficjalnych grach turniejowych.</span><br/><br/>Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>Kiedy DJ DIESEL, czyli Shaquille O'Neal, łączy siły z basową wagą ciężką Hairitage, powstaje „BANG YOUR HEAD”, dubstepowy hicior stworzony pod strzelanie prosto w głowy.",
+  "def_index": "107",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "wysokiej jakości",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | DJ DIESEL & Hairitage, BANG YOUR HEAD",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/djdiesel_01_png.png",
+  "original": {
+   "name": "djdiesel_01",
+   "image_inventory": "econ/music_kits/djdiesel_01"
+  }
+ },
+ {
+  "id": "music_kit-108",
+  "name": "Zestaw utworów | F.O.O.L, Criminals",
+  "description": "Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>Terroryści w końcu doczekali się własnego motywu muzycznego. Mroczny, filmowy i pełen synthwave'u utwór „Criminals” od F.O.O.L zapewnia oprawę muzyczną każdej akcji.",
+  "def_index": "108",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "wysokiej jakości",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | F.O.O.L, Criminals",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/fool_01_png.png",
+  "original": {
+   "name": "fool_01",
+   "image_inventory": "econ/music_kits/fool_01"
+  }
+ },
+ {
+  "id": "music_kit-108_st",
+  "name": "Zestaw utworów (StatTrak™) | F.O.O.L, Criminals",
+  "description": "<span style='color:#99ccff;'>Ten przedmiot posiada technologię StatTrak™, która pozwala śledzić pewne statystyki, kiedy jest używany przez jego właściciela.</span><br/><br/><span style='color:#cf6a32;'>Przedmiot ten śledzi liczbę zdobytych MVP w oficjalnych grach turniejowych.</span><br/><br/>Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>Terroryści w końcu doczekali się własnego motywu muzycznego. Mroczny, filmowy i pełen synthwave'u utwór „Criminals” od F.O.O.L zapewnia oprawę muzyczną każdej akcji.",
+  "def_index": "108",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "wysokiej jakości",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | F.O.O.L, Criminals",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/fool_01_png.png",
+  "original": {
+   "name": "fool_01",
+   "image_inventory": "econ/music_kits/fool_01"
+  }
+ },
+ {
+  "id": "music_kit-109",
+  "name": "Zestaw utworów | Noisestorm, Crab Rave",
+  "description": "Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>Wydany w prima aprilis w 2018 roku utwór „Crab Rave” Noisestorma wyspacerował sobie drogę do statusu internetowej legendy. Wygraj rundę i głoś wieść; po rywalach ani śladu.",
+  "def_index": "109",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "wysokiej jakości",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Noisestorm, Crab Rave",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/noisestorm_01_png.png",
+  "original": {
+   "name": "noisestorm_01",
+   "image_inventory": "econ/music_kits/noisestorm_01"
+  }
+ },
+ {
+  "id": "music_kit-109_st",
+  "name": "Zestaw utworów (StatTrak™) | Noisestorm, Crab Rave",
+  "description": "<span style='color:#99ccff;'>Ten przedmiot posiada technologię StatTrak™, która pozwala śledzić pewne statystyki, kiedy jest używany przez jego właściciela.</span><br/><br/><span style='color:#cf6a32;'>Przedmiot ten śledzi liczbę zdobytych MVP w oficjalnych grach turniejowych.</span><br/><br/>Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>Wydany w prima aprilis w 2018 roku utwór „Crab Rave” Noisestorma wyspacerował sobie drogę do statusu internetowej legendy. Wygraj rundę i głoś wieść; po rywalach ani śladu.",
+  "def_index": "109",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "wysokiej jakości",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Noisestorm, Crab Rave",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/noisestorm_01_png.png",
+  "original": {
+   "name": "noisestorm_01",
+   "image_inventory": "econ/music_kits/noisestorm_01"
+  }
+ },
+ {
+  "id": "music_kit-110",
+  "name": "Zestaw utworów | Pegboard Nerds, Disconnected",
+  "description": "Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>A Monstercat classic, Pegboard Nerds' \\\"Disconnected\\\" has been short-circuiting speakers for over a decade. This time, it's the other team disconnecting.",
+  "def_index": "110",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "wysokiej jakości",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Pegboard Nerds, Disconnected",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/pegboardnerds_01_png.png",
+  "original": {
+   "name": "pegboardnerds_01",
+   "image_inventory": "econ/music_kits/pegboardnerds_01"
+  }
+ },
+ {
+  "id": "music_kit-110_st",
+  "name": "Zestaw utworów (StatTrak™) | Pegboard Nerds, Disconnected",
+  "description": "<span style='color:#99ccff;'>Ten przedmiot posiada technologię StatTrak™, która pozwala śledzić pewne statystyki, kiedy jest używany przez jego właściciela.</span><br/><br/><span style='color:#cf6a32;'>Przedmiot ten śledzi liczbę zdobytych MVP w oficjalnych grach turniejowych.</span><br/><br/>Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>A Monstercat classic, Pegboard Nerds' \\\"Disconnected\\\" has been short-circuiting speakers for over a decade. This time, it's the other team disconnecting.",
+  "def_index": "110",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "wysokiej jakości",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Pegboard Nerds, Disconnected",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/pegboardnerds_01_png.png",
+  "original": {
+   "name": "pegboardnerds_01",
+   "image_inventory": "econ/music_kits/pegboardnerds_01"
+  }
+ },
+ {
+  "id": "music_kit-111",
+  "name": "Zestaw utworów | Tristam & Braken, Flight",
+  "description": "Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>„Flight” od duetu Tristam & Braken to czysta nostalgia, która dziś brzmi równie dobrze, jak wtedy, gdy pierwotnie ukazała się w 2013 roku.",
+  "def_index": "111",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "wysokiej jakości",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Tristam & Braken, Flight",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/tristam_braken_01_png.png",
+  "original": {
+   "name": "tristam_braken_01",
+   "image_inventory": "econ/music_kits/tristam_braken_01"
+  }
+ },
+ {
+  "id": "music_kit-111_st",
+  "name": "Zestaw utworów (StatTrak™) | Tristam & Braken, Flight",
+  "description": "<span style='color:#99ccff;'>Ten przedmiot posiada technologię StatTrak™, która pozwala śledzić pewne statystyki, kiedy jest używany przez jego właściciela.</span><br/><br/><span style='color:#cf6a32;'>Przedmiot ten śledzi liczbę zdobytych MVP w oficjalnych grach turniejowych.</span><br/><br/>Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>„Flight” od duetu Tristam & Braken to czysta nostalgia, która dziś brzmi równie dobrze, jak wtedy, gdy pierwotnie ukazała się w 2013 roku.",
+  "def_index": "111",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "wysokiej jakości",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Tristam & Braken, Flight",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/tristam_braken_01_png.png",
+  "original": {
+   "name": "tristam_braken_01",
+   "image_inventory": "econ/music_kits/tristam_braken_01"
+  }
+ },
+ {
+  "id": "music_kit-112",
+  "name": "Zestaw utworów | Vicetone & Cozi Zuehlsdorff, Nevada",
+  "description": "Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>Niektóre utwory od razu przywołują wspomnienia, a „Nevada” od Vicetone to dawka wspomnień z 2016 roku, którą najlepiej słuchać, świętując zwycięstwo.",
+  "def_index": "112",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "wysokiej jakości",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Vicetone & Cozi Zuehlsdorff, Nevada",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/vicetone_01_png.png",
+  "original": {
+   "name": "vicetone_01",
+   "image_inventory": "econ/music_kits/vicetone_01"
+  }
+ },
+ {
+  "id": "music_kit-112_st",
+  "name": "Zestaw utworów (StatTrak™) | Vicetone & Cozi Zuehlsdorff, Nevada",
+  "description": "<span style='color:#99ccff;'>Ten przedmiot posiada technologię StatTrak™, która pozwala śledzić pewne statystyki, kiedy jest używany przez jego właściciela.</span><br/><br/><span style='color:#cf6a32;'>Przedmiot ten śledzi liczbę zdobytych MVP w oficjalnych grach turniejowych.</span><br/><br/>Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>Niektóre utwory od razu przywołują wspomnienia, a „Nevada” od Vicetone to dawka wspomnień z 2016 roku, którą najlepiej słuchać, świętując zwycięstwo.",
+  "def_index": "112",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "wysokiej jakości",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Vicetone & Cozi Zuehlsdorff, Nevada",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/vicetone_01_png.png",
+  "original": {
+   "name": "vicetone_01",
+   "image_inventory": "econ/music_kits/vicetone_01"
+  }
  }
 ]
