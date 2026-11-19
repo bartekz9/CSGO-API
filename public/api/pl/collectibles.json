@@ -11641,8 +11641,8 @@
  },
  {
   "id": "collectible-5419",
-  "name": "Champion at PGL Singapore 2026",
-  "description": "This championship trophy was awarded to the Champion at the PGL Singapore 2026 CS2 Major Championship.",
+  "name": "Mistrz PGL Singapore 2026",
+  "description": "To trofeum zostało przyznane członkom zwycięskiej drużyny na Wielkich Mistrzostwach CS2 PGL Singapore 2026.",
   "def_index": "5419",
   "rarity": {
    "id": "rarity_ancient",
@@ -11660,8 +11660,8 @@
  },
  {
   "id": "collectible-5420",
-  "name": "Finalist at PGL Singapore 2026",
-  "description": "This championship trophy was awarded to the Finalist at the PGL Singapore 2026 CS2 Major Championship.",
+  "name": "Finalista PGL Singapore 2026",
+  "description": "To trofeum zostało przyznane członkom drużyny finalistów na Wielkich Mistrzostwach CS2 PGL Singapore 2026.",
   "def_index": "5420",
   "rarity": {
    "id": "rarity_ancient",
@@ -11679,8 +11679,8 @@
  },
  {
   "id": "collectible-5421",
-  "name": "Semifinalist at PGL Singapore 2026",
-  "description": "This championship trophy was awarded to the Semifinalist at the PGL Singapore 2026 CS2 Major Championship.",
+  "name": "Półfinalista PGL Singapore 2026",
+  "description": "To trofeum zostało przyznane członkom drużyny półfinalistów na Wielkich Mistrzostwach CS2 PGL Singapore 2026.",
   "def_index": "5421",
   "rarity": {
    "id": "rarity_ancient",
@@ -11698,8 +11698,8 @@
  },
  {
   "id": "collectible-5422",
-  "name": "Quarterfinalist at PGL Singapore 2026",
-  "description": "This championship trophy was awarded to the Quarterfinalist at the PGL Singapore 2026 CS2 Major Championship.",
+  "name": "Ćwierćfinalista PGL Singapore 2026",
+  "description": "To trofeum zostało przyznane członkom drużyny ćwierćfinalistów na Wielkich Mistrzostwach CS2 PGL Singapore 2026.",
   "def_index": "5422",
   "rarity": {
    "id": "rarity_ancient",

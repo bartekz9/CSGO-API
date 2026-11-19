@@ -3620,7 +3620,7 @@
  {
   "id": "music_kit-110",
   "name": "Zestaw utworów | Pegboard Nerds, Disconnected",
-  "description": "Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>A Monstercat classic, Pegboard Nerds' \\\"Disconnected\\\" has been short-circuiting speakers for over a decade. This time, it's the other team disconnecting.",
+  "description": "Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>Będący klasykiem wytwórni Monstercat „Disconnected” autorstwa Pegboard Nerds od ponad dekady rozgrzewa głośniki aż do zwracia. Tym razem to przeciwnicy rozłączają się z grą.",
   "def_index": "110",
   "rarity": {
    "id": "rarity_rare",
@@ -3638,7 +3638,7 @@
  {
   "id": "music_kit-110_st",
   "name": "Zestaw utworów (StatTrak™) | Pegboard Nerds, Disconnected",
-  "description": "<span style='color:#99ccff;'>Ten przedmiot posiada technologię StatTrak™, która pozwala śledzić pewne statystyki, kiedy jest używany przez jego właściciela.</span><br/><br/><span style='color:#cf6a32;'>Przedmiot ten śledzi liczbę zdobytych MVP w oficjalnych grach turniejowych.</span><br/><br/>Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>A Monstercat classic, Pegboard Nerds' \\\"Disconnected\\\" has been short-circuiting speakers for over a decade. This time, it's the other team disconnecting.",
+  "description": "<span style='color:#99ccff;'>Ten przedmiot posiada technologię StatTrak™, która pozwala śledzić pewne statystyki, kiedy jest używany przez jego właściciela.</span><br/><br/><span style='color:#cf6a32;'>Przedmiot ten śledzi liczbę zdobytych MVP w oficjalnych grach turniejowych.</span><br/><br/>Ten zestaw utworów podmieni całą muzykę w grze. Można się nim dzielić z innymi graczami w grze. Zawiera także hymn MVP, który usłyszy każdy z graczy, gdy zostaniesz MVP.\\n\\nZestaw utworów podmieni następującą muzykę:\\n- Główne menu\\n- Początek i koniec rundy\\n- Cel mapy\\n- 10-sekundowe ostrzeżenie\\n- Kamera pośmiertna<br/><br/>Będący klasykiem wytwórni Monstercat „Disconnected” autorstwa Pegboard Nerds od ponad dekady rozgrzewa głośniki aż do zwracia. Tym razem to przeciwnicy rozłączają się z grą.",
   "def_index": "110",
   "rarity": {
    "id": "rarity_rare",
